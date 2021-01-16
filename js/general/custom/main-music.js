@@ -122,8 +122,12 @@
 		var htmlIframe2 = '" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>';
 		var htmlIframeSrc = '';
 		var chkId = $(this).attr("id");
-		if (chkId == 'adModalaXX') {
-			htmlIframeSrc = '';
+		if (chkId == 'adModalb1-1') {
+			htmlIframeSrc = 'QM4FNsa7S1Y';
+		} else if (chkId == 'adModalb1-2') {
+			htmlIframeSrc = 'kw1meVVXtxI';
+		} else if (chkId == 'adModalb1-3') {
+			htmlIframeSrc = '16jLUePq3aw';
 		}
 		$("#adModal").find("#video-block").append(htmlIframe1 + htmlIframeSrc + htmlIframe2);
 	});
