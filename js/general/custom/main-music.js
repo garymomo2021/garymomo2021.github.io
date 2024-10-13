@@ -146,8 +146,10 @@
 			htmlIframeSrc = 'nY-RM0U3mgk';
 		} else if (chkId == 'adModala2-2') {
 			htmlIframeSrc = 'q7Pc6fpSWvo';
-		} else if (chkId == 'adModala3') {
+		} else if (chkId == 'adModala3-1') {
 			htmlIframeSrc = '4yT9cL5XwN8';
+		} else if (chkId == 'adModala3-2') {
+			htmlIframeSrc = 'LtY-jWeEQhQ';
 		} else if (chkId == 'adModala4-1') {
 			htmlIframeSrc = 'rEcSCmXkZpc';
 		} else if (chkId == 'adModala4-2') {
